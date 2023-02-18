@@ -1,0 +1,65 @@
+/*  --- Main Body ---  */
+body {
+    box-sizing: border-box;
+}
+
+#main {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 15px 0;
+}
+
+/*  --- "Your Tasks" Section ---  */
+
+.card-title {
+    font-size: 24px;
+    padding: 10px 0 10px 15px;
+}
+
+.input-field {
+    padding: 10px 0 10px 15px;
+}
+
+#add-task-btn {
+    margin-left: 15px;
+}
+
+.line
+{
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: lightgrey;
+    padding: 0 10px;
+    margin: 10px 0;
+}
+
+/*  --- "Task List" Section ---  */
+
+#task-title {
+    font-size: 24px;
+    font-weight: 300;
+    padding: 10px 0 10px 15px;
+    margin: 0;
+}
+
+.task-list-item-box {
+    width: 80%;
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+
+.task-list-item {
+    list-style-type: none;
+}
+
+#filter-task-btn {
+    margin-left: 15px;
+}
+
+.delete-item {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
