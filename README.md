@@ -4,4 +4,5 @@ This is a small project that I made while learning Vanilla Javascript. It is a s
 
 Made with HTML5, Bootstrap (CSS) & Javascript (Vanilla).
 
-<img width="37" alt="Screenshot 2023-02-25 at 17 02 03" src="https://user-images.githubusercontent.com/120111293/221549278-4b00791e-4002-42d3-8ac4-688dd7393756.png">
+
+<img width="1239" alt="Screenshot 2023-02-27 at 11 12 23" src="https://user-images.githubusercontent.com/120111293/221549374-3f107506-1cdb-490b-814e-18b024a65a0d.png">
